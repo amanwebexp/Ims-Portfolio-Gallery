@@ -1,12 +1,12 @@
 === Ims Portfolio Gallery ===
-Contributors: acewebx, inmicrosolutions
+Contributors: Aman, inmicrosolutions
 Tags: portfolio,company portfolio,auto portfolio,grid, php portfolio
 Requires at least: 3.0.1
 Tested up to: 6.8
 Stable tag: 1.0.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Donate link: https://www.paypal.me/acewebx
+Donate link: https://www.paypal.me/amanwebexp
 
 This plugin will help you to display your portfolio with categories wise without page refresh. 
 
@@ -60,4 +60,4 @@ We have already set up demo content for you. Simply insert the shortcode **[ims-
 Go to the portfolio, edit it, and upload the images. 
 
 = Q. Where can I report a bug? =
-Please report bugs, suggest ideas, and participate in development by emailing us at <a href="mailto:developer@acewebx.com">developer@acewebx.com</a>.
+Please report bugs, suggest ideas, and participate in development by emailing us at <a href="mailto:aman.webexp@gmail.com">aman.webexp@gmail.com</a>.

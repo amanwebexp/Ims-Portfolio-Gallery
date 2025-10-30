@@ -2,18 +2,18 @@
 
 /**
  *
- * @link       http://acewebx.com
+ * @link       https://github.com/amanwebexp/
  * @since      1.0.5
  * @package    ims-portfolio
  * @subpackage ims-portfolio/includes
  *
  * @wordpress-plugin
  * Plugin Name:       Ims Portfolio Gallery 
- * Plugin URI:        http://acewebx.com/ims-portfolio-gallery
+ * Plugin URI:        https://github.com/amanwebexp/ims-portfolio-gallery
  * Description:       This plugin will help you to display your portfolio with categories wise without page refresh, also it gave you the option to provide the detailed discription about your project/protfolio including tag features. Shortcode [ims-portfolio]
  * Version:           1.0.9
- * Author:            AceWebx Team
- * Author URI:        http://acewebx.com
+ * Author:            Aman
+ * Author URI:        https://github.com/amanwebexp/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       portfolio-gallery-by-ims

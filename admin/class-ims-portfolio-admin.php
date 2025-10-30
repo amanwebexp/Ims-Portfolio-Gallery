@@ -5,7 +5,7 @@ if ( ! defined( 'WPINC' ) ) {
 /**
  * The admin-specific functionality of the plugin.
  *
- * @link       http://acewebx.com
+ * @link       https://github.com/amanwebexp/
  * @since      1.0.0
  *
  * @package    ims-portfolio
@@ -200,7 +200,7 @@ public function save_meta_boxes($post_id) {
 	{
 		if (strpos($file, 'portfolio-gallery-by-ims') !== false) {
 			$new_links = array(
-				'ims_portfolio_support' => '<a target="_blank" href="http://acewebx.com/ims-portfolio-gallery">Support</a>',
+				'ims_portfolio_support' => '<a target="_blank" href="https://github.com/amanwebexp//ims-portfolio-gallery">Support</a>',
 			);
 
 			$links = array_merge($links, $new_links);
@@ -319,7 +319,7 @@ public function save_meta_boxes($post_id) {
 			$the_post_id = wp_insert_post($post);
 			wp_set_post_terms($the_post_id, array($tag_id3), 'ims_portfoliotag');
 			update_post_meta($the_post_id, 'ims_button_name', 'Demo');
-			update_post_meta($the_post_id, 'ims_button_url', 'http://acewebx.com');
+			update_post_meta($the_post_id, 'ims_button_url', 'https://github.com/amanwebexp/');
 			update_post_meta($the_post_id, 'ims_thumb_img', plugins_url('images/ims-thumb.jpg', __FILE__ ));
 			update_post_meta($the_post_id, 'ims_large_img', plugins_url('images/ims.jpg', __FILE__ ));
 

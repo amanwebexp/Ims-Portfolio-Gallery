@@ -133,7 +133,7 @@ class Ims_Portfolio_Activator
 			$the_post_id = wp_insert_post($post);
 			wp_set_post_terms($the_post_id, array($tag_id3), 'ims_portfoliotag');
 			update_post_meta($the_post_id, 'ims_button_name', 'Demo');
-			update_post_meta($the_post_id, 'ims_button_url', 'http://acewebx.com');
+			update_post_meta($the_post_id, 'ims_button_url', 'https://github.com/amanwebexp/');
 			update_post_meta($the_post_id, 'ims_thumb_img', site_url() . '/wp-content/plugins/portfolio-gallery-by-ims/admin/images/ims-thumb.jpg)');
 			update_post_meta($the_post_id, 'ims_large_img', site_url() . '/wp-content/plugins/portfolio-gallery-by-ims/admin/images/ims.jpg)');
 
